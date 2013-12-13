@@ -1,0 +1,1 @@
+your first rails app. From learn ruby rails in 20mins.
